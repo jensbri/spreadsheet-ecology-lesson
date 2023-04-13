@@ -125,7 +125,7 @@ So, instead we should have:
 > We're going to take a messy version of the survey data and describe how we would clean it up.
 >
 > 1. Download the data by clicking [here](https://ndownloader.figshare.com/files/2252083) to get it from FigShare.
-> 2. Open up the data in a spreadsheet program. 
+> 2. Open up the data (survey_data_spreadsheet_messy.xls) in a spreadsheet program. 
 > 3. You can see that there are two tabs. Two field assistants conducted the surveys, one
 in 2013 and one in 2014, and they both kept track of the data in their own way in tabs `2013` and `2014` of the dataset, 
 >respectively. Now
